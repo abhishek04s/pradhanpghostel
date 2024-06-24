@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pradhanpghostel/static/css/main.55058122.css",
+    "main.js": "/pradhanpghostel/static/js/main.70a5a5c5.js",
+    "index.html": "/pradhanpghostel/index.html",
+    "main.55058122.css.map": "/pradhanpghostel/static/css/main.55058122.css.map",
+    "main.70a5a5c5.js.map": "/pradhanpghostel/static/js/main.70a5a5c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55058122.css",
+    "static/js/main.70a5a5c5.js"
+  ]
+}
