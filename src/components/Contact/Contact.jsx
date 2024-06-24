@@ -56,10 +56,10 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Instagram</span>
-                    <span className="secondaryText">@hotel_1pradhanpg</span>
+                    <span className="secondaryText">@hostel_1pradhanpg</span>
                   </div>
                 </div>
-                <a className="flexCenter button" href="http://instagram.com/_u/hotel_1pradhanpg/">Visit our Instagram</a>
+                <a className="flexCenter button" href="http://instagram.com/_u/hostel_1pradhanpg/">Visit our Instagram</a>
               </div>
 
               <div className="flexColCenter mode">
