@@ -30,7 +30,7 @@ const Contact = () => {
                     <span className="secondaryText">+91 9928409728</span>
                   </div>
                 </div>
-                <div className="flexCenter button"><a href="tel:+919928409728">Call now</a></div>
+                <div className="flexCenter button" ><a href="tel:+919928409728">Call now</a></div>
               </div>
 
               <div className="flexColCenter mode">
@@ -73,7 +73,7 @@ const Contact = () => {
                     <span className="secondaryText">+91 9928409728</span>
                   </div>
                 </div>
-                <div className="flexCenter button"><a href="sms:/* phone number here */?body=/* body text here */">Message Now</a>
+                <div className="flexCenter button"><a href="sms:+91 9928409728?body=">Message Now</a>
 
 </div>
               </div>
