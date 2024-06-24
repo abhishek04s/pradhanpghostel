@@ -30,7 +30,7 @@ const Contact = () => {
                     <span className="secondaryText">+91 9928409728</span>
                   </div>
                 </div>
-                <div className="flexCenter button" ><a href="tel:+919928409728">Call now</a></div>
+                <a className="flexCenter button" href="tel:+919928409728">Call now</a>
               </div>
 
               <div className="flexColCenter mode">
@@ -43,7 +43,7 @@ const Contact = () => {
                     <span className="secondaryText"><a>+91 9928409728</a></span>
                   </div>
                 </div>
-                <div className="flexCenter button"><a href="https://wa.me/+919928409728">Chat Now</a></div>
+                <a className="flexCenter button" href="https://wa.me/+919928409728">Chat Now</a>
               </div>
             </div>
 
@@ -59,8 +59,7 @@ const Contact = () => {
                     <span className="secondaryText">@hotel_1pradhanpg</span>
                   </div>
                 </div>
-                <div className="flexCenter button"><a href="http://instagram.com/_u/hotel_1pradhanpg/">Visit our Instagram</a>
-                </div>
+                <a className="flexCenter button" href="http://instagram.com/_u/hotel_1pradhanpg/">Visit our Instagram</a>
               </div>
 
               <div className="flexColCenter mode">
@@ -73,9 +72,7 @@ const Contact = () => {
                     <span className="secondaryText">+91 9928409728</span>
                   </div>
                 </div>
-                <div className="flexCenter button"><a href="sms:+919928409728?body=">Message Now</a>
-
-</div>
+                <a className="flexCenter button" href="sms:+919928409728?body=">Message Now</a>
               </div>
             </div>
           </div>
