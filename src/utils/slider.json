@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Room-1",
+    "price": "47,043",
+    "detail": "Our Hostel rooms are clean and ventilated & well-maintained, free of dust and clutter, with adequate airflow through windows or vents, promoting a fresh and healthy environment.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Room-2",
+    "price": "66,353",
+    "detail": "A student hostel room is a compact living and study space featuring essential furniture, basic storage, and access to shared amenities, designed to balance privacy and community living affordably.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Attached Washroom",
+    "price": "35,853",
+    "detail": "Each Room in our hostel have a clean & attached washroom.",
+    "image": "./r4.png"
+  },
+  {
+    "name": "Window View",
+    "price": "47,043",
+    "detail": "Every single room of our hostel have windows and personal balcony for proper ventilation and fresh air.",
+    "image": "./r5.png"
+  },
+  {
+    "name": "Common Hall",
+    "price": "66,353",
+    "detail": "A common hall in student accommodation serves as a shared space for socializing, studying, and group activities, fostering community and collaboration among residents.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Roof-Top View",
+    "price": "35,853",
+    "detail": "The rooftop view of student accommodation offers a scenic overlook, providing a refreshing space for relaxation and panoramic vistas of the surrounding area.",
+    "image": "./r6.png"
+  }
+]
