@@ -73,7 +73,7 @@ const Contact = () => {
                     <span className="secondaryText">+91 9928409728</span>
                   </div>
                 </div>
-                <div className="flexCenter button"><a href="sms:+91 9928409728?body=">Message Now</a>
+                <div className="flexCenter button"><a href="sms:+919928409728?body=">Message Now</a>
 
 </div>
               </div>
